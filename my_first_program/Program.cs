@@ -21,7 +21,7 @@ namespace my_first_program
                 a=a+10;
             }
             
-            Console.WriteLine("Output="+a);
+            Console.WriteLine("New output="+a);
            Console.ReadKey();
         }
     }
